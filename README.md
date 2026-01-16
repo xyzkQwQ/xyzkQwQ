@@ -1,0 +1,1 @@
+<img src="gifs/Dark.gif" width="100%" height="150px">
