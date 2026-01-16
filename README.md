@@ -1,3 +1,3 @@
 <div align="center">
-<img src="GIF/Dark.gif" width="82%" height="82%">
+<img src="GIF/Dark.gif" width="85%" height="85%">
 </div>
